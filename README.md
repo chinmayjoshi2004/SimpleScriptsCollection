@@ -25,7 +25,7 @@ Dive into the enchanting world of code wonders, where each script is a magical c
 
 1. **Summon the Repository**:
    ```bash
-   git clone https://github.com/yourusername/AwesomeCodeWonders.git
+   git clone https://github.com/chinmayjoshi2004/AwesomeCodeWonders.git
    ```
 
 2. **Enter the Realm of Scripts**:
